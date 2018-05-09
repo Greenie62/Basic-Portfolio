@@ -1,0 +1,9 @@
+
+*{box-sizing:border-box;}
+
+.largeArea{width:100%;
+    height:300px;
+     background-color:palegoldenrod; }
+
+   section{background-color:pink;
+           width:50%;}
