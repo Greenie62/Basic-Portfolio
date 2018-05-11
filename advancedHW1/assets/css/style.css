@@ -37,4 +37,22 @@ a:hover{color:lemonchiffon;}
             margin-right:25%;
             background:white;}
 
-img{height:300px;}
+.aboutMe{position:relative;
+         top:40px;
+         left:30px;
+        font-family:courier;}  
+
+img{height:300px;
+    position:relative;
+    top:50px;} 
+.bio{width:50%;
+     position:relative;
+     left:415px;
+     bottom:250px;}
+
+.inputBoxes{
+        width:50%;
+        position:relative;
+
+        left:100px;
+}

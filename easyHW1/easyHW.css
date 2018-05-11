@@ -1,0 +1,84 @@
+
+*{box-sizing:content-box;}
+
+
+body{background:#777;
+     color:#777;
+     width:960px;
+     height:450px;
+     font-size:18px;
+     font-family:Arial, "Helvetica Neue", Arial, Helvetica, sans-serif;}
+
+#header,.nav,.footer{background:#ebebeb;
+             text-align:center;
+             height:85px;
+             width:80%;
+             margin-left:15%;
+             margin-right:15%;}
+
+#header{position:relative;
+        bottom:10px;}
+        
+.nav{position:relative;
+     bottom:16px;}
+
+
+p{position:relative;
+  top:35px;}  
+
+.section{height:300px;
+        width:55%;
+        margin-left:15%;
+        margin-right:0px;
+        background:#ebebeb;
+        margin-bottom:15px;
+        text-align:center;}
+        
+.aside{height:300px;
+       width:23%;
+       margin-right:5%;
+       background:#ebebeb;
+       margin-bottom:15%;
+       position:relative;
+       left:72%;
+       bottom:320px;
+       text-align:center;
+}
+
+.article{width:90%;
+         height:200px;
+         background-color:#777;
+         position:relative;
+         left:20px;
+         top:50px;
+         color:#ebebeb;}
+
+        /*Cant resist the physics reference!! */
+.pArticle{position:relative; 
+          top:20px;}
+
+.tripleH{background:#ebebeb;
+         color:#777;
+        width:90%;
+        height:50px;
+        top:20px;
+        position:relative;
+        left:20px;
+        text-align:center;}
+
+.pDiv{background:#ebebeb;
+      color:#777;
+      width:90%;
+      height:50px;
+      position:relative;
+      top:10px;
+      left:20px;
+      text-align:center;}
+
+.hTag{position:relative;
+      top:15px;}
+.pClass{position:relative;
+        top:15px;}
+
+.footer{position:relative;
+        bottom:450px;}
